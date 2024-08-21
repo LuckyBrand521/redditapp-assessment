@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sunday.taiwo\\Desktop\\RedditApp\\RedditApp1.0\\RedditApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D71D5C54-E444-4C5C-AE17-810C9C5B339E}|RedditApp.csproj|c:\\users\\sunday.taiwo\\desktop\\redditapp\\redditapp1.0\\redditapp\\redditstatisticsbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D71D5C54-E444-4C5C-AE17-810C9C5B339E}|RedditApp.csproj|solutionrelative:redditstatisticsbackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D71D5C54-E444-4C5C-AE17-810C9C5B339E}|RedditApp.csproj|c:\\users\\sunday.taiwo\\desktop\\redditapp\\redditapp1.0\\redditapp\\contracts\\redditpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D71D5C54-E444-4C5C-AE17-810C9C5B339E}|RedditApp.csproj|solutionrelative:contracts\\redditpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D71D5C54-E444-4C5C-AE17-810C9C5B339E}|RedditApp.csproj|c:\\users\\sunday.taiwo\\desktop\\redditapp\\redditapp1.0\\redditapp\\models\\redditpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D71D5C54-E444-4C5C-AE17-810C9C5B339E}|RedditApp.csproj|solutionrelative:models\\redditpost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D71D5C54-E444-4C5C-AE17-810C9C5B339E}|RedditApp.csproj|c:\\users\\sunday.taiwo\\desktop\\redditapp\\redditapp1.0\\redditapp\\models\\redditpostdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D71D5C54-E444-4C5C-AE17-810C9C5B339E}|RedditApp.csproj|solutionrelative:models\\redditpostdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D71D5C54-E444-4C5C-AE17-810C9C5B339E}|RedditApp.csproj|c:\\users\\sunday.taiwo\\desktop\\redditapp\\redditapp1.0\\redditapp\\models\\redditresponsedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D71D5C54-E444-4C5C-AE17-810C9C5B339E}|RedditApp.csproj|solutionrelative:models\\redditresponsedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D71D5C54-E444-4C5C-AE17-810C9C5B339E}|RedditApp.csproj|c:\\users\\sunday.taiwo\\desktop\\redditapp\\redditapp1.0\\redditapp\\models\\redditresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D71D5C54-E444-4C5C-AE17-810C9C5B339E}|RedditApp.csproj|solutionrelative:models\\redditresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D71D5C54-E444-4C5C-AE17-810C9C5B339E}|RedditApp.csproj|c:\\users\\sunday.taiwo\\desktop\\redditapp\\redditapp1.0\\redditapp\\contracts\\iredditpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D71D5C54-E444-4C5C-AE17-810C9C5B339E}|RedditApp.csproj|solutionrelative:contracts\\iredditpostrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D71D5C54-E444-4C5C-AE17-810C9C5B339E}|RedditApp.csproj|c:\\users\\sunday.taiwo\\desktop\\redditapp\\redditapp1.0\\redditapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D71D5C54-E444-4C5C-AE17-810C9C5B339E}|RedditApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D71D5C54-E444-4C5C-AE17-810C9C5B339E}|RedditApp.csproj|c:\\users\\sunday.taiwo\\desktop\\redditapp\\redditapp1.0\\redditapp\\models\\pushshiftresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D71D5C54-E444-4C5C-AE17-810C9C5B339E}|RedditApp.csproj|solutionrelative:models\\pushshiftresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D71D5C54-E444-4C5C-AE17-810C9C5B339E}|RedditApp.csproj|c:\\users\\sunday.taiwo\\desktop\\redditapp\\redditapp1.0\\redditapp\\models\\userpostcount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D71D5C54-E444-4C5C-AE17-810C9C5B339E}|RedditApp.csproj|solutionrelative:models\\userpostcount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RedditPostRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sunday.taiwo\\Desktop\\RedditApp\\RedditApp1.0\\RedditApp\\Contracts\\RedditPostRepository.cs",
+              "RelativeDocumentMoniker": "Contracts\\RedditPostRepository.cs",
+              "ToolTip": "C:\\Users\\sunday.taiwo\\Desktop\\RedditApp\\RedditApp1.0\\RedditApp\\Contracts\\RedditPostRepository.cs",
+              "RelativeToolTip": "Contracts\\RedditPostRepository.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAtwFIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T01:02:36.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RedditPost.cs",
+              "DocumentMoniker": "C:\\Users\\sunday.taiwo\\Desktop\\RedditApp\\RedditApp1.0\\RedditApp\\Models\\RedditPost.cs",
+              "RelativeDocumentMoniker": "Models\\RedditPost.cs",
+              "ToolTip": "C:\\Users\\sunday.taiwo\\Desktop\\RedditApp\\RedditApp1.0\\RedditApp\\Models\\RedditPost.cs",
+              "RelativeToolTip": "Models\\RedditPost.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T01:04:02.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RedditResponse.cs",
+              "DocumentMoniker": "C:\\Users\\sunday.taiwo\\Desktop\\RedditApp\\RedditApp1.0\\RedditApp\\Models\\RedditResponse.cs",
+              "RelativeDocumentMoniker": "Models\\RedditResponse.cs",
+              "ToolTip": "C:\\Users\\sunday.taiwo\\Desktop\\RedditApp\\RedditApp1.0\\RedditApp\\Models\\RedditResponse.cs",
+              "RelativeToolTip": "Models\\RedditResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T01:36:35.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RedditStatisticsBackgroundService.cs",
+              "DocumentMoniker": "C:\\Users\\sunday.taiwo\\Desktop\\RedditApp\\RedditApp1.0\\RedditApp\\RedditStatisticsBackgroundService.cs",
+              "RelativeDocumentMoniker": "RedditStatisticsBackgroundService.cs",
+              "ToolTip": "C:\\Users\\sunday.taiwo\\Desktop\\RedditApp\\RedditApp1.0\\RedditApp\\RedditStatisticsBackgroundService.cs",
+              "RelativeToolTip": "RedditStatisticsBackgroundService.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAYwCYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T01:00:14.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RedditResponseData.cs",
+              "DocumentMoniker": "C:\\Users\\sunday.taiwo\\Desktop\\RedditApp\\RedditApp1.0\\RedditApp\\Models\\RedditResponseData.cs",
+              "RelativeDocumentMoniker": "Models\\RedditResponseData.cs",
+              "ToolTip": "C:\\Users\\sunday.taiwo\\Desktop\\RedditApp\\RedditApp1.0\\RedditApp\\Models\\RedditResponseData.cs",
+              "RelativeToolTip": "Models\\RedditResponseData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T01:37:05.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "RedditPostData.cs",
+              "DocumentMoniker": "C:\\Users\\sunday.taiwo\\Desktop\\RedditApp\\RedditApp1.0\\RedditApp\\Models\\RedditPostData.cs",
+              "RelativeDocumentMoniker": "Models\\RedditPostData.cs",
+              "ToolTip": "C:\\Users\\sunday.taiwo\\Desktop\\RedditApp\\RedditApp1.0\\RedditApp\\Models\\RedditPostData.cs",
+              "RelativeToolTip": "Models\\RedditPostData.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T01:37:36.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sunday.taiwo\\Desktop\\RedditApp\\RedditApp1.0\\RedditApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\sunday.taiwo\\Desktop\\RedditApp\\RedditApp1.0\\RedditApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwA4AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T01:00:12.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRedditPostRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sunday.taiwo\\Desktop\\RedditApp\\RedditApp1.0\\RedditApp\\Contracts\\IRedditPostRepository.cs",
+              "RelativeDocumentMoniker": "Contracts\\IRedditPostRepository.cs",
+              "ToolTip": "C:\\Users\\sunday.taiwo\\Desktop\\RedditApp\\RedditApp1.0\\RedditApp\\Contracts\\IRedditPostRepository.cs",
+              "RelativeToolTip": "Contracts\\IRedditPostRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAApwA4AAACKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T01:01:19.53Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PushshiftResponse.cs",
+              "DocumentMoniker": "C:\\Users\\sunday.taiwo\\Desktop\\RedditApp\\RedditApp1.0\\RedditApp\\Models\\PushshiftResponse.cs",
+              "RelativeDocumentMoniker": "Models\\PushshiftResponse.cs",
+              "ToolTip": "C:\\Users\\sunday.taiwo\\Desktop\\RedditApp\\RedditApp1.0\\RedditApp\\Models\\PushshiftResponse.cs",
+              "RelativeToolTip": "Models\\PushshiftResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T01:07:06.589Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserPostCount.cs",
+              "DocumentMoniker": "C:\\Users\\sunday.taiwo\\Desktop\\RedditApp\\RedditApp1.0\\RedditApp\\Models\\UserPostCount.cs",
+              "RelativeDocumentMoniker": "Models\\UserPostCount.cs",
+              "ToolTip": "C:\\Users\\sunday.taiwo\\Desktop\\RedditApp\\RedditApp1.0\\RedditApp\\Models\\UserPostCount.cs",
+              "RelativeToolTip": "Models\\UserPostCount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T01:05:04.328Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
